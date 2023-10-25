@@ -13,6 +13,8 @@ form.addEventListener('submit', function(e){
     adicionaLinha();
     atualizaTabela();
     atualizaContatosFinal();
+    console.log(nomes);
+    console.log(telefones);
 });
 
 function adicionaLinha(){
