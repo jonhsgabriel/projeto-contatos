@@ -3,8 +3,6 @@ const imgAprovado = '<img src="./images/certo.png" alt="correto"/>';
 const imgReprovado = '<img src="./images/errado.png" alt="errado"/>';
 const nomes = [];
 const telefones = [];
-const spancadastrado = '<span class="valor cadastrado">Aprovado</span>';
-const spanNaoCadastrado = '<span class="valor naoCadastrado">Reprovado</span>';
 
 let linhas = '';
 
